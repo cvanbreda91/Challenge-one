@@ -9,7 +9,7 @@ Accessibility
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://cvanbreda91.github.io/Challenge-one/
 
 ## Contribution
 Made with ❤️ by Courtney
